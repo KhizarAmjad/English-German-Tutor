@@ -5,7 +5,6 @@ The App help users in understanding the English-German wording efficiently by di
 
 i've attached a few snapshots for a more clearer display
 ![WhatsApp Image 2022-03-04 at 5 21 52 AM](https://user-images.githubusercontent.com/73986334/156680837-5a785657-4d22-40bf-9430-0fcf21431158.jpeg)
-![WhatsApp Image 2022-03-04 at 5 39 39 AM](https://user-images.githubusercontent.com/73986334/156680834-d945417c-1ac1-452a-9a29-dd6a854a32ef.jpeg)
 
 ![WhatsApp Image 2022-03-04 at 5 40 02 AM](https://user-images.githubusercontent.com/73986334/156680832-bcd41509-f241-448d-adb4-fa60e36864f5.jpeg)
 ![WhatsApp Image 2022-03-04 at 5 39 20 AM](https://user-images.githubusercontent.com/73986334/156680836-b420b197-5e77-4df9-a059-cde6abdf9973.jpeg)
